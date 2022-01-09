@@ -18,12 +18,15 @@
 
 ![](/Resources/VBA_Challenge_2018.png)     ![](/Resources/Original_code_2018_code_performance.png)
 
-#### Link to [file with refactored script that delivers better runtime by](:
+#### Refactored script can be accessed via this [link](/Resources/Refactored_script_w_improved_runtime.txt to file with refactored script that delivers better runtime by)
 - Adding a tickerIndex simplified the script:
 - - eliminated a for loop 
 - - reduced number of conditionals
 - - reduced memory needs 
 
-#### **Summary:**   In a summary statement, address the following questions.
+#### **Summary:**  
 ##### What are the advantages or disadvantages of refactoring code?
+- Advantages of refactoring code include but are not limited to; improved organization, improved perferformance, improved quality.
+- Disadvantages of refactoring code include but are not limited to; risk of introducing bugs, risk the developer may misunderstanding the purpose, risk of corrupting complex/big scripts.  
 ##### How do these pros and cons apply to refactoring the original VBA script?
+- In this example, the script is basic and specific to one customer.  The advantages are a big gain.  
