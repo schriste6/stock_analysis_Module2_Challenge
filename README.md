@@ -8,11 +8,13 @@
 *Steve would like to run the Stock Analysis on on thousands of stocks. The concerned is the current script will not deliver needed results timely.  The new request is to refactor the current script to deliver the stock analysis on thousands of stocks with improved runtime.*  
 
 ### Results:  Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script 
-Snippets of script runtimes are below:  2018 refactored script and 2018 original script
+Snippets of script runtimes for 2017 show an improved runtime of 0.54492 seconds.
 
 ![](/Resources/VBA_Challenge_2017.png)     ![](/Resources/Original_code_2017_code_performance.png)
 
+Snippets of script runtimes for 2018 show an improved runtime of 0.57422 seconds
 ![](/Resources/VBA_Challenge_2018.png)     ![](/Resources/Original_code_2018_code_performance.png)
+
 #### **Summary:**   In a summary statement, address the following questions.
 ##### What are the advantages or disadvantages of refactoring code?
 ##### How do these pros and cons apply to refactoring the original VBA script?
