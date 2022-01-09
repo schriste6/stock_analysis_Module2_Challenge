@@ -3,9 +3,9 @@
 ## Overview of Project:  
 
 ### Original Request
-*Customer, Steve, is pleased with the original script developed to analyze stock performance, it delivers on all the requested deliverables.  The initial request was a stock analysis script to run on 12 stocks.  Steve's delight with the original deliverable has him returning with a change request.*
+*Customer, Steve, is pleased with the original *Stock Analysis* script developed to analyze stock performance, it delivers on all the requested deliverables.  The initial request was a stock analysis script to run on 12 stocks.  Steve's delight with the original deliverable has him returning with a change request.*
 ### Change Request
-*Steve would like to run the Stock Analysis on on thousands of stocks. The concerned is the current script will not deliver needed results timely.  The new request is to refactor the current script to deliver the stock analysis on thousands of stocks with improved runtime.*  
+*Steve would like to run the *Stock Analysis* on thousands of stocks. The concerned is the current script will not deliver needed results timely.  The new request is to refactor the current script to deliver the stock analysis on thousands of stocks with improved runtime.*  
 
 ### Results: 
 - Snippets of script runtimes for 2017 (refactored on left / original on right) 
