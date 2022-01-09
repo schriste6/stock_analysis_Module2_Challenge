@@ -12,7 +12,7 @@
 
 ![](/Resources/VBA_Challenge_2017.png)     ![](/Resources/Original_code_2017_code_performance.png)
 
-- Snippets of script runtimes for 2018  (new on left / original on right) show an improved runtime of 0.57422 seconds:
+- Snippets of script runtimes for 2018  (new on left / original on right) show an improved runtime of 0.95898 seconds:
 
 ![](/Resources/VBA_Challenge_2018.png)     ![](/Resources/Original_code_2018_code_performance.png)
 
