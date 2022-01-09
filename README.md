@@ -1,4 +1,4 @@
-# Stock Analysis - Refactored Script, a gain or a loss?  **  
+# Stock Analysis - Refactored Script, a gain or a loss?
 
 ## Overview of Project:  
 
@@ -6,7 +6,7 @@
 
 ** Steve would like to run the Stock Analysis on on thousands of stocks. The concerned is the current script will not deliver needed results timely.  The new request is to refactor the current script to deliver the stock analysis on thousands of stocks with improved runtime.  **  
 
-### **Results:**  Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script 
+### Results:  Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script 
 
 #### **Summary:**   In a summary statement, address the following questions.
 ##### What are the advantages or disadvantages of refactoring code?
