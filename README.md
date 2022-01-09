@@ -7,7 +7,7 @@
 ### Change Request
 *Steve would like to run the Stock Analysis on on thousands of stocks. The concerned is the current script will not deliver needed results timely.  The new request is to refactor the current script to deliver the stock analysis on thousands of stocks with improved runtime.*  
 
-### Results:  Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script 
+### Results: 
 - Snippets of script runtimes for 2017 (refactored on left / original on right) 
   - Refractored script demonstrates an ***improved runtime of 0.55859 seconds***:
 
