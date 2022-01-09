@@ -24,7 +24,7 @@
   - reduced number of conditionals
   - reduced memory needs 
 
-#### **Summary:**  
+#### Summary:  
 ##### What are the advantages or disadvantages of refactoring code?
 - Advantages of refactoring code include but are not limited to; improved organization, improved perferformance, improved quality.
 - Disadvantages of refactoring code include but are not limited to; risk of introducing bugs, risk the developer may misunderstanding the purpose, risk of corrupting complex/big scripts.  
