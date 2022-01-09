@@ -9,12 +9,12 @@
 
 ### Results:  Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script 
 - Snippets of script runtimes for 2017 (refactored on left / original on right) 
-- - Refractored script demonstrates an ***improved runtime of 0.55859 seconds***:
+  - Refractored script demonstrates an ***improved runtime of 0.55859 seconds***:
 
 ![](/Resources/VBA_Challenge_2017.png)     ![](/Resources/Original_code_2017_code_performance.png)
 
 - Snippets of script runtimes for 2018  (refactored on left / original on right) 
-- - Refractored script demonstrates an ***improved runtime of 0.95898 seconds***:
+  - Refractored script demonstrates an ***improved runtime of 0.95898 seconds***:
 
 ![](/Resources/VBA_Challenge_2018.png)     ![](/Resources/Original_code_2018_code_performance.png)
 
