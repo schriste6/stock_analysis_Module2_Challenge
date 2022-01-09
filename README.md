@@ -18,7 +18,7 @@
 
 ![](/Resources/VBA_Challenge_2018.png)     ![](/Resources/Original_code_2018_code_performance.png)
 
-#### Refactored code can be accessed via this [link](/Resources/Refactored_script_w_improved_runtime.txt to file with refactored script that delivers better runtime by)
+#### Refactored code can be accessed via this [link](/Resources/Refactored_script_w_improved_runtime.txt)
 - Adding a tickerIndex simplified the code:
   - eliminated a for loop 
   - reduced number of conditionals
