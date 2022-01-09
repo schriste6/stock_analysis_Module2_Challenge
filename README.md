@@ -11,7 +11,7 @@
 Original Stock Analysis script runtimes for 2017 and 2018:
 
 
-![\Resources/VBA_Challenge_2017.png]
+![]/Resources/VBA_Challenge_2017.png]
 #### **Summary:**   In a summary statement, address the following questions.
 ##### What are the advantages or disadvantages of refactoring code?
 ##### How do these pros and cons apply to refactoring the original VBA script?
