@@ -18,7 +18,7 @@
 
 ![](/Resources/VBA_Challenge_2018.png)     ![](/Resources/Original_code_2018_code_performance.png)
 
-#### Link to file with refactored script that delivers better runtime by:
+#### Link to [file with refactored script that delivers better runtime by](:
 - Adding a tickerIndex simplified the script:
 - - eliminated a for loop 
 - - reduced number of conditionals
